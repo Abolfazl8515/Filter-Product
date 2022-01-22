@@ -47,35 +47,6 @@ header {
   border: 2px solid #6d28d9;
 }
 
-.List-product {
-  display: flex;
-}
-
-.List-product ul {
-  display: flex;
-  list-style-type: none;
-}
-
-.List-product li {
-  width: 7rem;
-  height: 3rem;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  margin: 20px 30px;
-  color: #6d28d9;
-  border-radius: 5px;
-  cursor: pointer;
-  border: 1px solid #6d28d9;
-  transition: all 0.2s;
-  font-size: 1.7rem;
-}
-
-.List-product li:hover {
-  background-color: #6d28d9;
-  color: #fff;
-}
-
 .product-group-1 {
   width: 100%;
   height: auto;
